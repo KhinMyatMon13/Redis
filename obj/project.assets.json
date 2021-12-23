@@ -916,11 +916,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\@Projects\\RedisTest\\RedisDemoNET5\\RedisDemoNET5\\RedisDemoNET5.csproj",
+      "projectUniqueName": "D:\\@Projects\\RedisTest\\AzureRedis\\RedisDemoNET5\\RedisDemoNET5\\RedisDemoNET5.csproj",
       "projectName": "RedisDemoNET5",
-      "projectPath": "D:\\@Projects\\RedisTest\\RedisDemoNET5\\RedisDemoNET5\\RedisDemoNET5.csproj",
+      "projectPath": "D:\\@Projects\\RedisTest\\AzureRedis\\RedisDemoNET5\\RedisDemoNET5\\RedisDemoNET5.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "D:\\@Projects\\RedisTest\\RedisDemoNET5\\RedisDemoNET5\\obj\\",
+      "outputPath": "D:\\@Projects\\RedisTest\\AzureRedis\\RedisDemoNET5\\RedisDemoNET5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
